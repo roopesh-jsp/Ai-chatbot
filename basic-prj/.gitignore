@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# VSCode settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Python egg metadata and distribution files
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# Pydantic compiled cache
+__pydantic__/ 
+
+# Hugging Face cache (optional)
+huggingface/
+
+# LangChain cache (if used)
+.cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# IDE specific
+.idea/
+*.iml
+
+# Temporary files
+*.swp
+*~
+.env
